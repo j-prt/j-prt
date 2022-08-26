@@ -3,7 +3,8 @@
 <div align='center'>
 
 ### Who am I? 
-Bootcamp grad, data scientist, python developer, board game enthusiast, voracious consumer of podcasts
+Bootcamp grad, data scientist, python developer, board game enthusiast, voracious consumer of podcasts  
+Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 
 </div>
 
