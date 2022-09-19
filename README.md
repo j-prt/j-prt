@@ -64,15 +64,18 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - To juggle 4 items
 
 #### Reading
-- [Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy
+- ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
+- [Mythos](https://en.wikipedia.org/wiki/Mythos_(book)) by Stephen Fry
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
 - [Horizon: Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
-- [Life is Strange 2](https://en.wikipedia.org/wiki/Life_Is_Strange_2)
+- ~~[Life is Strange 2](https://en.wikipedia.org/wiki/Life_Is_Strange_2)~~
+- [Life is Strange: True Colors](https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors)
 
 #### Watching
-- How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan
+- ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
+- [Cobra Kai S5](https://en.wikipedia.org/wiki/Cobra_Kai)
 - [Frasier](https://en.wikipedia.org/wiki/Frasier)
 
 
