@@ -33,6 +33,9 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 ### Projects?
 
 <p align='center'>
+   <a href="https://github.com/j-prt/shoplist-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=shoplist-api&title_color=306998&bg_color=fff4cc">
+  </a>
   <a href="https://github.com/j-prt/bootcamp-final">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=bootcamp-final&title_color=306998&bg_color=fff4cc">
   </a>
