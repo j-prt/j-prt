@@ -65,7 +65,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
-- [Mythos](https://en.wikipedia.org/wiki/Mythos_(book)) by Stephen Fry
+- ~~[Mythos](https://en.wikipedia.org/wiki/Mythos_(book)) by Stephen Fry~~
+- [Heroes](https://www.goodreads.com/book/show/41433634-heroes) by Stephen Fry
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
