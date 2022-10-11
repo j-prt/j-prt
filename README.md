@@ -79,6 +79,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Cobra Kai S5](https://en.wikipedia.org/wiki/Cobra_Kai)~~
 - [Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)
 - [Frasier](https://en.wikipedia.org/wiki/Frasier)
+- [The Midnight Club](https://www.imdb.com/title/tt13444912/)
 
 
 
