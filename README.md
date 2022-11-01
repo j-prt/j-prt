@@ -37,16 +37,16 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=shoplist-api&title_color=306998&bg_color=fff4cc">
   </a>
   <a href="https://github.com/j-prt/bootcamp-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=bootcamp-final&title_color=306998&bg_color=fff4cc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=GetRecd&title_color=306998&bg_color=fff4cc">
   </a>
   <a href="https://github.com/j-prt/bootcamp-cnn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=bootcamp-cnn&title_color=306998&bg_color=fff4cc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=ConvNets&title_color=306998&bg_color=fff4cc">
   </a>
     <a href="https://github.com/j-prt/bootcamp-cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=bootcamp-cluster&title_color=306998&bg_color=fff4cc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=tweet-clustering&title_color=306998&bg_color=fff4cc">
   </a>
     <a href="https://github.com/j-prt/bootcamp-regression">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=bootcamp-regression&title_color=306998&bg_color=fff4cc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=regression-discontinuity&title_color=306998&bg_color=fff4cc">
   </a>
     <a href="https://github.com/j-prt/mnk-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=mnk-game&title_color=306998&bg_color=fff4cc">
@@ -81,6 +81,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - [Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)
 - ~~[Frasier](https://en.wikipedia.org/wiki/Frasier)~~
 - ~~[The Midnight Club](https://www.imdb.com/title/tt13444912/)~~
+- [Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)
 
 
 
