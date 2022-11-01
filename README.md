@@ -36,16 +36,16 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
    <a href="https://github.com/j-prt/shoplist-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=shoplist-api&title_color=306998&bg_color=fff4cc">
   </a>
-  <a href="https://github.com/j-prt/bootcamp-final">
+  <a href="https://github.com/j-prt/GetRecd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=GetRecd&title_color=306998&bg_color=fff4cc">
   </a>
-  <a href="https://github.com/j-prt/bootcamp-cnn">
+  <a href="https://github.com/j-prt/ConvNets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=ConvNets&title_color=306998&bg_color=fff4cc">
   </a>
-    <a href="https://github.com/j-prt/bootcamp-cluster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=tweet-clustering&title_color=306998&bg_color=fff4cc">
+    <a href="https://github.com/j-prt/tweet-segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=tweet-segmentation&title_color=306998&bg_color=fff4cc">
   </a>
-    <a href="https://github.com/j-prt/bootcamp-regression">
+    <a href="https://github.com/j-prt/regression-discontinuity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=j-prt&repo=regression-discontinuity&title_color=306998&bg_color=fff4cc">
   </a>
     <a href="https://github.com/j-prt/mnk-game">
