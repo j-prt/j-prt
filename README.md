@@ -81,7 +81,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - [Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)
 - ~~[Frasier](https://en.wikipedia.org/wiki/Frasier)~~
 - ~~[The Midnight Club](https://www.imdb.com/title/tt13444912/)~~
-- [Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)
+- ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
 
 
 
