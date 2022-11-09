@@ -74,6 +74,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - [Horizon: Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
 - ~~[Life is Strange 2](https://en.wikipedia.org/wiki/Life_Is_Strange_2)~~
 - ~~[Life is Strange: True Colors](https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors)~~
+- [The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
