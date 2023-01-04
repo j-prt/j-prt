@@ -59,30 +59,35 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 ## Lately, I've been... 
 
 #### Learning
-- Django
+- ~~Django~~
 - Español con Duolingo!
 - To juggle 4 items
+- Cross-platform mobile app development with React Native
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
 - ~~[Mythos](https://en.wikipedia.org/wiki/Mythos_(book)) by Stephen Fry~~
 - ~~[Heroes](https://www.goodreads.com/book/show/41433634-heroes) by Stephen Fry~~
-- [Troy](https://www.goodreads.com/book/show/53443339-troy) by Stephen Fry
+- ~~[Troy](https://www.goodreads.com/book/show/53443339-troy) by Stephen Fry~~
+- [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) by David Foster Wallace
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
-- [Horizon: Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)
+- ~~[Horizon: Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn)~~
 - ~~[Life is Strange 2](https://en.wikipedia.org/wiki/Life_Is_Strange_2)~~
 - ~~[Life is Strange: True Colors](https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors)~~
-- [The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))
+- ~~[The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))~~
+- ~~[Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)~~
+- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
 - ~~[Cobra Kai S5](https://en.wikipedia.org/wiki/Cobra_Kai)~~
-- [Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)
+- ~~[Lord of the Rings: The Rings of Power](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power)~~
 - ~~[Frasier](https://en.wikipedia.org/wiki/Frasier)~~
 - ~~[The Midnight Club](https://www.imdb.com/title/tt13444912/)~~
 - ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
+- [What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)
 
 
 
