@@ -79,6 +79,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))~~
 - ~~[Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)~~
 - [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
+- 
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
@@ -87,7 +88,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Frasier](https://en.wikipedia.org/wiki/Frasier)~~
 - ~~[The Midnight Club](https://www.imdb.com/title/tt13444912/)~~
 - ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
-- [What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)
+- ~~[What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)~~
 
 
 
