@@ -62,7 +62,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~Django~~
 - Español con Duolingo!
 - To juggle 4 items
-- Cross-platform mobile app development with React Native
+- ~~Cross-platform mobile app development with React Native~~
+- FastAPI 
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
@@ -78,8 +79,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Life is Strange: True Colors](https://en.wikipedia.org/wiki/Life_Is_Strange:_True_Colors)~~
 - ~~[The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))~~
 - ~~[Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)~~
-- [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding)
-- 
+- ~~[Running Simulator 2019](https://en.wikipedia.org/wiki/Death_Stranding)~~ (Abandoned. Thanks, Kojima)
+- [Star Wars Jedi: Fallen Order](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order)
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
