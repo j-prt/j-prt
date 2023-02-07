@@ -70,7 +70,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Mythos](https://en.wikipedia.org/wiki/Mythos_(book)) by Stephen Fry~~
 - ~~[Heroes](https://www.goodreads.com/book/show/41433634-heroes) by Stephen Fry~~
 - ~~[Troy](https://www.goodreads.com/book/show/53443339-troy) by Stephen Fry~~
-- [Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) by David Foster Wallace
+- ~~[Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) by David Foster Wallace~~
+- [The Witch's Heart](https://www.goodreads.com/en/book/show/53438195) by Genevieve Gornichec
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
@@ -90,6 +91,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[The Midnight Club](https://www.imdb.com/title/tt13444912/)~~
 - ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
 - ~~[What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)~~
+- [Wednesday](https://www.imdb.com/title/tt13443470/)
 
 
 
