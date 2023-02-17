@@ -81,7 +81,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[The Medium](https://en.wikipedia.org/wiki/The_Medium_(video_game))~~
 - ~~[Ghost of Tsushima](https://en.wikipedia.org/wiki/Ghost_of_Tsushima)~~
 - ~~[Running Simulator 2019](https://en.wikipedia.org/wiki/Death_Stranding)~~ (Abandoned. Thanks, Kojima)
-- [Star Wars Jedi: Fallen Order](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order)
+- ~~[Star Wars Jedi: Fallen Order](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order)~~
+- [Hogwarts Legacy](https://en.wikipedia.org/wiki/Hogwarts_Legacy)
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
