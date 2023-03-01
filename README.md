@@ -3,7 +3,7 @@
 <div align='center'>
 
 ### Who am I? 
-Python developer, data scientist, board game enthusiast, voracious consumer of podcasts  
+Developer, data scientist, board game enthusiast, voracious consumer of podcasts  
 Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 
 </div>
