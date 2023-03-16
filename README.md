@@ -72,6 +72,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Troy](https://www.goodreads.com/book/show/53443339-troy) by Stephen Fry~~
 - ~~[Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) by David Foster Wallace~~
 - ~~[The Witch's Heart](https://www.goodreads.com/en/book/show/53438195) by Genevieve Gornichec~~
+- ~~[The Ballad of Songbirds and Snakes](https://www.goodreads.com/book/show/51901147-the-ballad-of-songbirds-and-snakes) by Suzanne Collins
+- [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J. D. Salinger
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
