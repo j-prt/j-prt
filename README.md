@@ -15,8 +15,10 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=306998)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=FFD43B)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=306998)
-![](https://img.shields.io/badge/sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=FFD43B) <br>
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=306998)
+![](https://img.shields.io/badge/sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=FFD43B)
+![](https://img.shields.io/badge/statsmodels-informational?style=flat&logo=Python&logoColor=white&color=306998)
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FFD43B) <br>
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=306998)
 ![](https://img.shields.io/badge/BeautifulSoup-informational?style=flat&logo=python&logoColor=white&color=FFD43B)
 ![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=python&logoColor=white&color=306998)
 ![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=Python&logoColor=white&color=FFD43B) <br>
