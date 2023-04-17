@@ -61,11 +61,13 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 ## Lately, I've been... 
 
 #### Learning
-- ~~Django~~
+- ~~Django & DRF~~
 - Español con Duolingo!
 - To juggle 4 items
 - ~~Cross-platform mobile app development with React Native~~
-- FastAPI 
+- ~~FastAPI ~~
+- [Deep Learning](https://www.coursera.org/specializations/deep-learning) 
+- [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
@@ -75,8 +77,9 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Infinite Jest](https://en.wikipedia.org/wiki/Infinite_Jest) by David Foster Wallace~~
 - ~~[The Witch's Heart](https://www.goodreads.com/en/book/show/53438195) by Genevieve Gornichec~~
 - ~~[The Ballad of Songbirds and Snakes](https://www.goodreads.com/book/show/51901147-the-ballad-of-songbirds-and-snakes) by Suzanne Collins~~
-- [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J. D. Salinger
-- [Facebook: The Inside Story](https://www.goodreads.com/book/show/52032133-facebook) by Stephen Levy
+- ~~[The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J. D. Salinger~~
+- ~~[Facebook: The Inside Story](https://www.goodreads.com/book/show/52032133-facebook) by Stephen Levy~~
+- [Will Smith](https://www.goodreads.com/en/book/show/58375739)
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
@@ -88,7 +91,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Running Simulator 2019](https://en.wikipedia.org/wiki/Death_Stranding)~~ (Abandoned. Thanks, Kojima)
 - ~~[Star Wars Jedi: Fallen Order](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order)~~
 - ~~[Hogwarts Legacy](https://en.wikipedia.org/wiki/Hogwarts_Legacy)~~
-- [Horizon: Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West)
+- ~~[Horizon: Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West)~~
+- [Arkham Horror: The Card Game (Dunwich cycle)](https://boardgamegeek.com/boardgame/208545/arkham-horror-card-game-dunwich-legacy-expansion)
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
@@ -99,6 +103,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
 - ~~[What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)~~
 - ~~[Wednesday](https://www.imdb.com/title/tt13443470/)~~
+- [Better Call Saul](https://www.imdb.com/title/tt3032476/)
 
 
 
