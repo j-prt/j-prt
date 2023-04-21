@@ -80,7 +80,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) by J. D. Salinger~~
 - ~~[Facebook: The Inside Story](https://www.goodreads.com/book/show/52032133-facebook) by Stephen Levy~~
 - ~~[Will Smith](https://www.goodreads.com/en/book/show/58375739)~~
-- [1984](https://www.goodreads.com/book/show/40961427-1984)
+- [1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
