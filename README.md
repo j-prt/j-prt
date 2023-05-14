@@ -66,7 +66,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - To juggle 4 items
 - ~~Cross-platform mobile app development with React Native~~
 - ~~FastAPI~~
-- [Deep Learning](https://www.coursera.org/specializations/deep-learning) 
+- ~~[Deep Learning](https://www.coursera.org/specializations/deep-learning)~~
 - [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 #### Reading
