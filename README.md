@@ -81,7 +81,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Facebook: The Inside Story](https://www.goodreads.com/book/show/52032133-facebook) by Stephen Levy~~
 - ~~[Will Smith](https://www.goodreads.com/en/book/show/58375739)~~
 - ~~[1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell~~
-- [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir
+- ~~[Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir~~
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
