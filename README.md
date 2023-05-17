@@ -67,7 +67,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~Cross-platform mobile app development with React Native~~
 - ~~FastAPI~~
 - ~~[Deep Learning](https://www.coursera.org/specializations/deep-learning)~~
-- [MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- ~~[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)~~
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
