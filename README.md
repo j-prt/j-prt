@@ -66,8 +66,9 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - To juggle 4 items
 - ~~Cross-platform mobile app development with React Native~~
 - ~~FastAPI~~
-- ~~[Deep Learning](https://www.coursera.org/specializations/deep-learning)~~
-- ~~[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)~~
+- ~~[Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)~~
+- ~~[MLOps Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)~~
+- ~~[NLP Specialization (Coursera)](https://www.coursera.org/specializations/natural-language-processing)~~
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
@@ -82,6 +83,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Will Smith](https://www.goodreads.com/en/book/show/58375739)~~
 - ~~[1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell~~
 - ~~[Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir~~
+- [The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) by Shirley Jackson
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
