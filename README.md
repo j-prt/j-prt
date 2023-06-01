@@ -97,6 +97,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Hogwarts Legacy](https://en.wikipedia.org/wiki/Hogwarts_Legacy)~~
 - ~~[Horizon: Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West)~~
 - [Arkham Horror: The Card Game (Dunwich cycle)](https://boardgamegeek.com/boardgame/208545/arkham-horror-card-game-dunwich-legacy-expansion)
+- [Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid)
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
