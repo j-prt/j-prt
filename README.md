@@ -83,7 +83,8 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Will Smith](https://www.goodreads.com/en/book/show/58375739)~~
 - ~~[1984](https://www.goodreads.com/book/show/40961427-1984) by George Orwell~~
 - ~~[Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir~~
-- [The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) by Shirley Jackson
+- ~~[The Haunting of Hill House](https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House) by Shirley Jackson~~
+- [Bruce Lee: A life](https://www.goodreads.com/en/book/show/36415807) by Matthew Polly
 
 #### Playing
 - [Gloomhaven: Jaws of the Lion](https://boardgamegeek.com/boardgame/291457/gloomhaven-jaws-lion)
@@ -99,6 +100,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - [Arkham Horror: The Card Game (Dunwich cycle)](https://boardgamegeek.com/boardgame/208545/arkham-horror-card-game-dunwich-legacy-expansion)
 - ~~[Super Metroid](https://en.wikipedia.org/wiki/Super_Metroid)~~
 - [Diablo IV](https://en.wikipedia.org/wiki/Diablo_IV)
+- [Resident Evil (2002)](https://en.wikipedia.org/wiki/Resident_Evil_(2002_video_game))
 
 #### Watching
 - ~~How to Change Your Mind (Netflix), adaptation of the [book](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) by Michael Pollan~~
