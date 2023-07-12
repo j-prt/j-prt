@@ -69,6 +69,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)~~
 - ~~[MLOps Specialization (Coursera)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)~~
 - ~~[NLP Specialization (Coursera)](https://www.coursera.org/specializations/natural-language-processing)~~
+- GCP stuff
 
 #### Reading
 - ~~[Hackers](https://www.goodreads.com/book/show/56829.Hackers) by Stephen Levy~~
@@ -111,7 +112,7 @@ Check out [my LinkedIn](https://www.linkedin.com/in/joseph-peart/)!
 - ~~[Guillermo del Toro's Cabinet of Curiosities](https://www.imdb.com/title/tt8415836/)~~
 - ~~[What We Do in the Shadows](https://www.imdb.com/title/tt7908628/)~~
 - ~~[Wednesday](https://www.imdb.com/title/tt13443470/)~~
-- [Better Call Saul](https://www.imdb.com/title/tt3032476/)
+- ~~[Better Call Saul](https://www.imdb.com/title/tt3032476/)~~
 
 
 
